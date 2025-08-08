@@ -2,7 +2,7 @@
 
 ## Setup custom Tmux Config
 
-1. Move the config file to the home directory or make a `~/.tmux.conf`:
+1. Move the config file to the home directory or create a `~/.tmux.conf` with my setting on this repo:
 ```bash
 mv tmux.conf ~/.tmux.conf
 ```
